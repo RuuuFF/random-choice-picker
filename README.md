@@ -9,5 +9,5 @@
 ## 🖥️ Resultado
 <div align="center">
   <img alt="Image random choice picker" src="https://i.imgur.com/2EskmYx.png" width="450px">
-  <p>Confira o resultado: <a href="https://random-choice-picker-ruuuff.netlify.app">random-choice-picker-ruuuff</a></p>
+  <p>Confira o resultado: <a target="_blank" href="https://random-choice-picker-ruuuff.netlify.app">random-choice-picker-ruuuff</a></p>
 </div>
